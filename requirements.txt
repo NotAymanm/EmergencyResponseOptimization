@@ -1,0 +1,8 @@
+geopandas
+networkx
+fastapi
+uvicorn
+shapely
+numpy
+
+# pip install -r requirements.txt
